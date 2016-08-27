@@ -78,7 +78,5 @@ public class WhiteCells{
 		sb.append("\texpected: "+expected+" obtained: "+obtained+"\n");
 
 		System.out.println(sb.toString());
-
-
 	}
 }
