@@ -1,3 +1,4 @@
+/* Tested on Sep 2, 2016. Points: 249.95 */
 import java.io.*;
 
 public class WorkingRabbits{
