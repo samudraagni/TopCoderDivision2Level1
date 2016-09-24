@@ -3,8 +3,7 @@
 public class LISNumberDivTwo{
 	public 	int calculate(int[] seq){
 		int count = 0;
-		int addToSeq = 0;
-
+		
 		for(int i=0; i < seq.length; i++){
 			int j = i+1;
 			while(i < seq.length && j < seq.length && seq[i] < seq[j]){
@@ -16,6 +15,7 @@ public class LISNumberDivTwo{
 
 		return count;
 	}	
+
 
 	public static void main(String[] args) {
 		LISNumberDivTwo lnd = new LISNumberDivTwo();
