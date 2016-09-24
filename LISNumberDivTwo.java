@@ -1,4 +1,6 @@
-/* https://community.topcoder.com/stat?c=problem_statement&pm=12446 */
+/* https://community.topcoder.com/stat?c=problem_statement&pm=12446 
+	Submission successful for 249.99/250 points
+*/
 
 public class LISNumberDivTwo{
 	public 	int calculate(int[] seq){
